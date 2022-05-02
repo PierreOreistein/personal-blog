@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.bytedance.com/en/'
     company_logo: org-gc
     location: Singapore
-    date_start: '2021-09'
+    date_start: '2021-09-27'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -41,8 +41,8 @@ experience:
     company_url: 'https://fieldbox.ai/'
     company_logo: org-gc
     location: Singapore
-    date_start: '2019-12'
-    date_end: '2021-09'
+    date_start: '2019-12-16'
+    date_end: '2021-09-20'
     description: |2-
         Responsibilities include:
         
