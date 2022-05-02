@@ -23,18 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Computer Vision Engineer
-      company: ByteDance
-      company_url: 'https://www.bytedance.com/en/'
-      company_logo: org-gc
-      location: Singapore
-      date_start: '2021-09'
-      date_end: ''
-      description: |2-
-          Responsibilities include:
-          
-          * Analysing
-          * Modelling
-          * Deploying
+    company: ByteDance
+    company_url: 'https://www.bytedance.com/en/'
+    company_logo: org-gc
+    location: Singapore
+    date_start: '2021-09'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+
+        * Analysing
+        * Modelling
+        * Deploying
         
   - title: Data Scientist
     company: FieldBox.ai
